@@ -1,0 +1,24 @@
+ul{
+    float: left;
+    list-style-type: none;
+ font-size: 16.5px;
+
+}
+ul li{
+    display: inline-block;
+ 
+}
+ul li a{
+    text-decoration: none;
+ 
+   color: rgb(208, 209, 210);
+   padding: 3px 5px;
+   border: 1px solid transparent;
+   transition: .5 ease;
+
+}
+ul li a:hover{
+    background-color: rgb(85, 85, 85);
+    color: black;
+
+}
